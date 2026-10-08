@@ -2,7 +2,7 @@
 
 A reusable software delivery workflow for Codex: focused skills guide the main agent, while you lead product decisions and assess working results.
 
-Inspired by [Matt Pocock's seven phases of AI development](https://www.aihero.dev/my-7-phases-of-ai-development), adapted for owner-readable planning, demonstrable vertical slices, and minimal intervention in technical work. These instructions guide delivery; they do not guarantee production readiness on their own.
+Adapted for owner-readable planning, demonstrable vertical slices, and minimal intervention in technical work. These instructions guide delivery; they do not guarantee production readiness on their own.
 
 ## The workflow
 
